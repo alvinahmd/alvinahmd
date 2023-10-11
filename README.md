@@ -25,7 +25,7 @@
 - Team Collaboration: Effective teamwork and communication are essential in web development. I take pride in my ability to collaborate with designers, back-end developers, and project stakeholders to deliver exceptional results.
 
 ### 🚀 latest project
-- **[Anaya Moviee ](https://[github.com/[alvinahmd]/[movieapp](https://anayaamovie.vercel.app/)])**<br>
+- **[Anaya Moviee ](https://anayaamovie.vercel.app/)])**<br>
   Deskripsi singkat proyek ini. Apa yang Anda capai dan teknologi yang Anda gunakan.
 
 - **[Nama Proyek 2](https://github.com/[nama-akun-GitHub]/[nama-proyek-2])**<br>
