@@ -7,10 +7,6 @@
   </p>
   <p style="padding-top:5px">I believe that a good user experience is the key to digital product success, and that's what I always emphasize in every project I work on. I care deeply about responsive web design, accessibility, and performance, and I always strive to keep my code clean and structured to make it easier to maintain and develop in the future.
   </p>
-  <p style="padding-top:5px">Apart from technical skills, I also have good communication skills and like working in a team. I enjoy collaborating with designers, back-end developers, and other stakeholders to create solutions that match project needs.
-  </p>
-  <p style="padding-top:5px">I always try to update my knowledge in web technology developments and enjoy learning new things. In my spare time, I often participate in open source projects and create simple applications that challenge myself.
-  </p>
   <p style="padding-top:5px">I believe that web development is an ever-changing world, and I am excited to continue contributing and growing in this industry. If you're looking for someone who can help you bring your vision to life in the form of engaging web design, I'm ready to work with you."
   </p>
 </div>
@@ -29,7 +25,7 @@
 - Team Collaboration: Effective teamwork and communication are essential in web development. I take pride in my ability to collaborate with designers, back-end developers, and project stakeholders to deliver exceptional results.
 
 ### 🚀 latest project
-- **[Nama Proyek 1](https://github.com/[nama-akun-GitHub]/[nama-proyek-1])**<br>
+- **[Anaya Moviee ](https://[github.com/[alvinahmd]/[movieapp](https://anayaamovie.vercel.app/)])**<br>
   Deskripsi singkat proyek ini. Apa yang Anda capai dan teknologi yang Anda gunakan.
 
 - **[Nama Proyek 2](https://github.com/[nama-akun-GitHub]/[nama-proyek-2])**<br>
